@@ -1,2 +1,24 @@
-.env
+# Node modules
 node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Large files not needed in repo
+*.zip
+*.rar
+*.tar
+*.7z
+*.mp4
+*.avi
+*.mov
+*.exe
+*.iso
+*.db
